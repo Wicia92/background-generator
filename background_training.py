@@ -1,3 +1,3 @@
 #Wersja bez zmian
 
-print('background_original')
+print('background_version_Wicia')
